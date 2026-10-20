@@ -1,11 +1,10 @@
-# Lillys-Little-Helper
-An open source discord bot coded in Python, currently features a honeypot role, channel, a ping command, an uptime command, and a server stats command
+# Aurora
+Aurora is an open-source bot made in Python, the main developer is Lilly Luna // Lillybanana
 
-All code was written by me, and/or sourced from public sources such as Reddit, Youtube tutorials, and other websites
+All code was either hand-written by me or found on websites such as stackoverflow.
 
-No AI was used during any process of making this bot
+AI was not used during this project at any point
 
-You must have these installed for the bot to work
-  python-dotenv
-  discord.py
-  psutil
+
+----
+If you plan to copy & paste the code for your own bot, please make sure to update parts of the code to meet your own needs (the only part that needs to be updated in main.py should be your UID for the /server command. You will also need to fully update cofig.json)
